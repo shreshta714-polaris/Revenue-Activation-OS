@@ -1,0 +1,501 @@
+Opportunity ID,Company Name,ARR,Stage,Win/Loss,Sales Rep,Industry,Deal Size,Days in Stage,Objection Category,Product Adoption Score,Customer Health Score,Renewal Probability
+OPP-0001,Pinnacle Data,25000,Discovery,Open,Priya Nair,Real Estate Tech,SMB,4,Budget Freeze,16,66,48.7
+OPP-0002,Conduit Software,19000,Proposal,Open,Alex Chen,Real Estate Tech,SMB,63,Contract Terms,29,74,67.6
+OPP-0003,Vortex Tech,24000,Prospecting,Open,Priya Nair,E-Commerce,SMB,11,Contract Terms,15,48,63.8
+OPP-0004,Overture Tech,105000,Qualification,Open,Alex Chen,Real Estate Tech,Mid-Market,23,Contract Terms,13,55,56.3
+OPP-0005,Archway Tech,480000,Closed Won,Won,Riley Scott,HealthTech,Enterprise,3,No Objection,94,70,84.0
+OPP-0006,Cliffside AI,60000,Closed Won,Won,Marcus Rivera,Legal Tech,Mid-Market,2,Stakeholder Alignment,78,71,75.0
+OPP-0007,Nimbus Tech,27000,Discovery,Open,Marcus Rivera,HR Tech,SMB,4,Stakeholder Alignment,15,56,35.3
+OPP-0008,Zenith Cloud,21000,Qualification,Open,Jamie Wu,MarTech,SMB,14,Feature Gap,33,53,41.1
+OPP-0009,Coda Analytics,420000,Closed Lost,Lost,Alex Chen,DevTools,Enterprise,3,Competitor Preference,34,27,18.7
+OPP-0010,Capstone Software,65000,Discovery,Open,Alex Chen,Manufacturing,Mid-Market,6,Stakeholder Alignment,26,42,27.4
+OPP-0011,Ember Technologies,85000,Negotiation,Open,Casey Park,HR Tech,Mid-Market,29,Pricing,59,58,71.9
+OPP-0012,Centric Platforms,610000,Negotiation,Open,Sam Torres,FinTech,Enterprise,33,Pricing,49,56,55.2
+OPP-0013,Canopy Software,18000,Qualification,Open,Jamie Wu,Manufacturing,SMB,15,ROI Justification,40,57,63.8
+OPP-0014,Lumina Analytics,32000,Qualification,Open,Dana Kim,HR Tech,SMB,39,ROI Justification,16,71,21.6
+OPP-0015,Valleyforge Cloud,65000,Proposal,Open,Riley Scott,PropTech,Mid-Market,53,Pricing,45,66,66.0
+OPP-0016,Arclight Solutions,80000,Proposal,Open,Sam Torres,PropTech,Mid-Market,12,Contract Terms,30,74,73.9
+OPP-0017,Meridian Software,140000,Proposal,Open,Dana Kim,Logistics,Mid-Market,49,Pricing,23,47,55.5
+OPP-0018,Hardline Software,660000,Negotiation,Open,Marcus Rivera,PropTech,Enterprise,41,Stakeholder Alignment,62,87,78.2
+OPP-0019,Ridge Systems,17000,Proposal,Open,Sam Torres,Real Estate Tech,SMB,30,Budget Freeze,14,61,51.6
+OPP-0020,Netcrest Analytics,24000,Qualification,Open,Jordan Blake,Legal Tech,SMB,10,No Objection,15,59,34.7
+OPP-0021,Flatrock Cloud,105000,Proposal,Open,Riley Scott,RetailTech,Mid-Market,30,Pricing,56,76,80.3
+OPP-0022,NovaTech Solutions,510000,Discovery,Open,Alex Chen,EdTech,Enterprise,5,No Objection,27,58,55.9
+OPP-0023,Quantum Leap Inc,300000,Qualification,Open,Sam Torres,E-Commerce,Enterprise,37,Security Concerns,24,61,51.2
+OPP-0024,Nexus Platforms,125000,Discovery,Open,Riley Scott,Logistics,Mid-Market,8,Budget Freeze,7,32,31.7
+OPP-0025,Luminary Data,440000,Closed Lost,Lost,Alex Chen,RetailTech,Enterprise,1,Competitor Preference,37,16,7.8
+OPP-0026,Cobalt Systems,490000,Negotiation,Open,Jordan Blake,MarTech,Enterprise,30,Contract Terms,41,79,71.0
+OPP-0027,Dockside AI,70000,Prospecting,Open,Alex Chen,Legal Tech,Mid-Market,3,Budget Freeze,4,52,25.5
+OPP-0028,Momentum Cloud,130000,Negotiation,Open,Alex Chen,RetailTech,Mid-Market,61,Competitor Preference,57,65,74.4
+OPP-0029,Sagelink Analytics,15000,Qualification,Open,Priya Nair,Cybersecurity,SMB,17,Feature Gap,28,56,51.4
+OPP-0030,Eclipse Software,95000,Discovery,Open,Casey Park,Manufacturing,Mid-Market,10,Timing,14,42,45.3
+OPP-0031,Momentum AI,470000,Discovery,Open,Morgan Lee,PropTech,Enterprise,11,Security Concerns,16,53,52.2
+OPP-0032,Orion Ventures,17000,Closed Lost,Lost,Dana Kim,FinTech,SMB,7,Budget Freeze,12,42,9.4
+OPP-0033,Compass Cloud,26000,Closed Lost,Lost,Jordan Blake,Real Estate Tech,SMB,2,Competitor Preference,41,28,12.5
+OPP-0034,Synapse AI,16000,Negotiation,Open,Dana Kim,MarTech,SMB,39,Contract Terms,58,56,60.6
+OPP-0035,Rampart Cloud,420000,Discovery,Open,Priya Nair,E-Commerce,Enterprise,11,ROI Justification,18,46,16.9
+OPP-0036,Highlands Data,165000,Discovery,Open,Sam Torres,EdTech,Mid-Market,6,ROI Justification,9,38,15.8
+OPP-0037,Vanguard Data,340000,Discovery,Open,Marcus Rivera,Logistics,Enterprise,10,Pricing,20,58,16.4
+OPP-0038,Folio Data,100000,Negotiation,Open,Casey Park,DevTools,Mid-Market,27,Contract Terms,68,68,71.7
+OPP-0039,Signal Tech,20000,Proposal,Open,Casey Park,DevTools,SMB,21,Budget Freeze,15,56,56.2
+OPP-0040,Cornerstone Data,160000,Discovery,Open,Alex Chen,Cybersecurity,Mid-Market,27,Competitor Preference,25,50,43.7
+OPP-0041,Vantage Analytics,18000,Negotiation,Open,Marcus Rivera,Logistics,SMB,69,Stakeholder Alignment,41,71,59.4
+OPP-0042,Clearstep Analytics,520000,Discovery,Open,Dana Kim,MarTech,Enterprise,22,No Objection,21,63,15.9
+OPP-0043,Streamline Analytics,85000,Negotiation,Open,Priya Nair,Insurance Tech,Mid-Market,58,Stakeholder Alignment,23,70,70.9
+OPP-0044,Elevate Tech,11000,Prospecting,Open,Sam Torres,EdTech,SMB,2,Stakeholder Alignment,4,44,45.7
+OPP-0045,Greenfield Tech,44000,Prospecting,Open,Casey Park,Cybersecurity,SMB,10,ROI Justification,21,44,53.3
+OPP-0046,Pulse Platforms,85000,Qualification,Open,Casey Park,FinTech,Mid-Market,12,Pricing,22,69,19.0
+OPP-0047,HighRidge Tech,530000,Prospecting,Open,Marcus Rivera,MarTech,Enterprise,16,Feature Gap,15,43,40.9
+OPP-0048,Tidal Software,95000,Discovery,Open,Alex Chen,MarTech,Mid-Market,13,Stakeholder Alignment,18,53,58.6
+OPP-0049,Bedrock Platforms,20000,Prospecting,Open,Dana Kim,PropTech,SMB,10,No Objection,12,39,36.9
+OPP-0050,Traverse Analytics,110000,Negotiation,Open,Priya Nair,Manufacturing,Mid-Market,38,Contract Terms,36,47,46.4
+OPP-0051,Ironbridge AI,11000,Proposal,Open,Jamie Wu,PropTech,SMB,60,Competitor Preference,20,44,49.9
+OPP-0052,Citadel Cloud,530000,Closed Lost,Lost,Jamie Wu,Cybersecurity,Enterprise,6,Budget Freeze,28,32,19.0
+OPP-0053,Echo Cloud,790000,Closed Lost,Lost,Sam Torres,HR Tech,Enterprise,5,Stakeholder Alignment,32,33,11.8
+OPP-0054,Meadowpoint Systems,33000,Proposal,Open,Riley Scott,FinTech,SMB,31,Feature Gap,26,42,57.2
+OPP-0055,Sterling Systems,590000,Qualification,Open,Marcus Rivera,HealthTech,Enterprise,13,Security Concerns,28,55,51.0
+OPP-0056,Rivergate Tech,95000,Prospecting,Open,Dana Kim,RetailTech,Mid-Market,4,Feature Gap,7,56,24.0
+OPP-0057,Praxis Platforms,12000,Qualification,Open,Priya Nair,RetailTech,SMB,33,Budget Freeze,30,60,35.6
+OPP-0058,Fieldstone AI,380000,Proposal,Open,Priya Nair,FinTech,Enterprise,33,Feature Gap,49,77,68.1
+OPP-0059,Stronghold Tech,60000,Discovery,Open,Priya Nair,HealthTech,Mid-Market,13,Feature Gap,14,51,60.0
+OPP-0060,Fortis Tech,440000,Prospecting,Open,Riley Scott,Legal Tech,Enterprise,18,Stakeholder Alignment,24,58,36.8
+OPP-0061,Radian Tech,95000,Closed Won,Won,Dana Kim,DevTools,Mid-Market,3,Feature Gap,97,82,85.5
+OPP-0062,Stellar Operations,280000,Discovery,Open,Dana Kim,Legal Tech,Enterprise,31,Competitor Preference,23,47,64.7
+OPP-0063,Anchor Analytics,19000,Proposal,Open,Dana Kim,RetailTech,SMB,11,Pricing,25,76,66.9
+OPP-0064,Apex Dynamics,90000,Negotiation,Open,Sam Torres,FinTech,Mid-Market,32,ROI Justification,65,47,65.2
+OPP-0065,Titan Software,75000,Qualification,Open,Marcus Rivera,HealthTech,Mid-Market,16,Feature Gap,27,38,40.2
+OPP-0066,BlueRidge SaaS,26000,Discovery,Open,Jamie Wu,Real Estate Tech,SMB,25,No Objection,7,44,41.5
+OPP-0067,CoreLogic Pro,340000,Proposal,Open,Sam Torres,PropTech,Enterprise,54,Contract Terms,38,54,49.1
+OPP-0068,Verilink Data,70000,Proposal,Open,Jamie Wu,HealthTech,Mid-Market,22,Feature Gap,33,57,54.6
+OPP-0069,Paragon Systems,36000,Discovery,Open,Marcus Rivera,Manufacturing,SMB,21,Pricing,19,42,29.6
+OPP-0070,Summit Digital,85000,Closed Lost,Lost,Casey Park,HealthTech,Mid-Market,8,Pricing,25,38,14.8
+OPP-0071,Harbor Analytics,700000,Discovery,Open,Alex Chen,Real Estate Tech,Enterprise,24,Security Concerns,13,64,39.9
+OPP-0072,Ascend Systems,80000,Qualification,Open,Priya Nair,HR Tech,Mid-Market,23,ROI Justification,19,41,54.1
+OPP-0073,Latitude Tech,100000,Qualification,Open,Riley Scott,Insurance Tech,Mid-Market,37,Timing,36,56,53.7
+OPP-0074,Vela Systems,720000,Negotiation,Open,Alex Chen,Real Estate Tech,Enterprise,77,Contract Terms,35,65,59.1
+OPP-0075,WestEdge Cloud,17000,Negotiation,Open,Morgan Lee,Legal Tech,SMB,59,Contract Terms,41,49,48.7
+OPP-0076,Synergy Data,270000,Discovery,Open,Jamie Wu,Insurance Tech,Enterprise,7,Feature Gap,25,50,24.7
+OPP-0077,Frontier Systems,14000,Qualification,Open,Sam Torres,RetailTech,SMB,15,No Objection,41,56,63.4
+OPP-0078,Bastion AI,30000,Prospecting,Open,Alex Chen,Manufacturing,SMB,18,Feature Gap,20,30,60.7
+OPP-0079,Trident Analytics,95000,Proposal,Open,Jordan Blake,FinTech,Mid-Market,28,Pricing,32,71,67.9
+OPP-0080,Torch AI,125000,Proposal,Open,Jamie Wu,Insurance Tech,Mid-Market,65,ROI Justification,49,54,55.4
+OPP-0081,Solstice Software,105000,Prospecting,Open,Casey Park,Logistics,Mid-Market,4,Budget Freeze,15,25,39.7
+OPP-0082,Crosspoint AI,25000,Proposal,Open,Priya Nair,HR Tech,SMB,21,Timing,28,50,46.4
+OPP-0083,Millstone Tech,140000,Qualification,Open,Jordan Blake,PropTech,Mid-Market,31,Stakeholder Alignment,30,71,19.8
+OPP-0084,Clearview AI,70000,Proposal,Open,Casey Park,DevTools,Mid-Market,50,Contract Terms,45,69,60.1
+OPP-0085,Delta Metrics,21000,Proposal,Open,Jamie Wu,PropTech,SMB,24,ROI Justification,11,52,43.0
+OPP-0086,Spire Analytics,150000,Qualification,Open,Casey Park,FinTech,Mid-Market,14,Timing,38,53,24.6
+OPP-0087,Hillcrest Software,105000,Closed Won,Won,Sam Torres,HealthTech,Mid-Market,3,Feature Gap,70,90,76.4
+OPP-0088,Veritas AI,85000,Qualification,Open,Jamie Wu,RetailTech,Mid-Market,36,ROI Justification,24,69,23.1
+OPP-0089,NorthStar Data,580000,Qualification,Open,Alex Chen,HR Tech,Enterprise,28,Competitor Preference,17,50,49.1
+OPP-0090,Lakefront Tech,29000,Negotiation,Open,Sam Torres,RetailTech,SMB,49,Competitor Preference,25,63,59.1
+OPP-0091,Orbit Software,38000,Qualification,Open,Priya Nair,Real Estate Tech,SMB,19,Contract Terms,31,49,18.3
+OPP-0092,Apexion Systems,22000,Qualification,Open,Riley Scott,Real Estate Tech,SMB,26,ROI Justification,14,48,19.9
+OPP-0093,Oceanside Software,90000,Discovery,Open,Morgan Lee,Logistics,Mid-Market,24,Stakeholder Alignment,30,34,55.8
+OPP-0094,Ridgeline Cloud,28000,Qualification,Open,Casey Park,MarTech,SMB,17,Stakeholder Alignment,33,63,31.6
+OPP-0095,NetForge AI,105000,Discovery,Open,Marcus Rivera,Legal Tech,Mid-Market,10,Stakeholder Alignment,30,43,21.3
+OPP-0096,Beacon Cloud,110000,Qualification,Open,Jordan Blake,Legal Tech,Mid-Market,21,ROI Justification,33,61,20.2
+OPP-0097,Radiant Data,120000,Closed Won,Won,Casey Park,EdTech,Mid-Market,3,No Objection,92,87,91.2
+OPP-0098,Ironclad Systems,610000,Negotiation,Open,Priya Nair,PropTech,Enterprise,24,Timing,52,86,77.7
+OPP-0099,Flagstone Analytics,95000,Proposal,Open,Jordan Blake,Real Estate Tech,Mid-Market,27,Competitor Preference,53,46,50.1
+OPP-0100,Vertex Systems,140000,Proposal,Open,Sam Torres,FinTech,Mid-Market,41,ROI Justification,44,62,55.6
+OPP-0101,Pathfinder Systems,14000,Negotiation,Open,Casey Park,HealthTech,SMB,20,Pricing,48,61,64.1
+OPP-0102,Pinnacle Cloud,34000,Closed Won,Won,Priya Nair,PropTech,SMB,3,No Objection,75,69,66.7
+OPP-0103,Prism Platforms,27000,Closed Lost,Lost,Morgan Lee,E-Commerce,SMB,4,Feature Gap,15,20,15.7
+OPP-0104,Keystone SaaS,590000,Closed Lost,Lost,Marcus Rivera,MarTech,Enterprise,4,Pricing,11,14,18.5
+OPP-0105,Shoreline Systems,640000,Proposal,Open,Marcus Rivera,Manufacturing,Enterprise,10,No Objection,21,74,64.6
+OPP-0106,Solara AI,70000,Qualification,Open,Jamie Wu,DevTools,Mid-Market,34,Feature Gap,26,72,36.9
+OPP-0107,Lynx Systems,290000,Discovery,Open,Casey Park,DevTools,Enterprise,30,Feature Gap,25,41,59.2
+OPP-0108,Axiom Software,115000,Qualification,Open,Marcus Rivera,HealthTech,Mid-Market,36,Timing,27,59,40.1
+OPP-0109,Groundwork Systems,13000,Negotiation,Open,Riley Scott,E-Commerce,SMB,59,ROI Justification,44,45,48.5
+OPP-0110,Ironclad Cloud,13000,Closed Won,Won,Morgan Lee,Legal Tech,SMB,4,No Objection,89,86,83.4
+OPP-0111,Pillar Systems,85000,Closed Won,Won,Alex Chen,PropTech,Mid-Market,1,Security Concerns,99,82,85.4
+OPP-0112,Matrix Dynamics,15000,Closed Lost,Lost,Marcus Rivera,PropTech,SMB,5,Contract Terms,9,19,12.9
+OPP-0113,Corex Platforms,21000,Prospecting,Open,Alex Chen,MarTech,SMB,8,Security Concerns,17,40,59.0
+OPP-0114,Forefront Cloud,110000,Negotiation,Open,Morgan Lee,E-Commerce,Mid-Market,40,Pricing,36,84,72.9
+OPP-0115,Horizon Cloud,145000,Proposal,Open,Alex Chen,Legal Tech,Mid-Market,48,Security Concerns,16,41,39.5
+OPP-0116,Drift Analytics,145000,Prospecting,Open,Alex Chen,E-Commerce,Mid-Market,2,Security Concerns,22,37,60.9
+OPP-0117,Crest Analytics,80000,Qualification,Open,Dana Kim,DevTools,Mid-Market,9,Budget Freeze,8,52,62.0
+OPP-0118,Astral Software,400000,Negotiation,Open,Morgan Lee,HR Tech,Enterprise,43,Pricing,33,55,64.2
+OPP-0119,Velocity AI,80000,Negotiation,Open,Morgan Lee,HR Tech,Mid-Market,95,Pricing,37,74,61.8
+OPP-0120,Celer Platforms,38000,Qualification,Open,Riley Scott,DevTools,SMB,44,Feature Gap,33,58,24.0
+OPP-0121,Contour Analytics,230000,Negotiation,Open,Jordan Blake,EdTech,Enterprise,25,ROI Justification,38,66,59.2
+OPP-0122,Helix Software,20000,Negotiation,Open,Alex Chen,DevTools,SMB,81,Pricing,32,62,54.2
+OPP-0123,Relay Systems,155000,Negotiation,Open,Jamie Wu,PropTech,Mid-Market,88,Pricing,18,62,50.1
+OPP-0124,Scout Analytics,18000,Discovery,Open,Priya Nair,Logistics,SMB,21,No Objection,35,64,64.6
+OPP-0125,Nimble Tech,590000,Qualification,Open,Riley Scott,Logistics,Enterprise,39,ROI Justification,35,58,64.0
+OPP-0126,Polaris Data,540000,Qualification,Open,Alex Chen,RetailTech,Enterprise,36,ROI Justification,42,60,45.7
+OPP-0127,Keystone Cloud,32000,Negotiation,Open,Jamie Wu,DevTools,SMB,14,ROI Justification,32,54,53.0
+OPP-0128,Cascade Technologies,450000,Closed Won,Won,Riley Scott,HealthTech,Enterprise,3,No Objection,94,95,92.0
+OPP-0129,Equinox Cloud,32000,Discovery,Open,Marcus Rivera,PropTech,SMB,27,Feature Gap,30,44,53.8
+OPP-0130,Nucleus Software,300000,Qualification,Open,Dana Kim,HR Tech,Enterprise,35,No Objection,20,48,47.7
+OPP-0131,Stratos AI,16000,Proposal,Open,Casey Park,FinTech,SMB,59,Contract Terms,39,43,60.5
+OPP-0132,Irongate Software,510000,Qualification,Open,Jordan Blake,HealthTech,Enterprise,21,No Objection,12,62,21.4
+OPP-0133,Grid Dynamics,270000,Prospecting,Open,Riley Scott,MarTech,Enterprise,4,No Objection,14,58,36.2
+OPP-0134,Mosaic Tech,370000,Closed Lost,Lost,Sam Torres,Manufacturing,Enterprise,6,Contract Terms,20,47,12.5
+OPP-0135,TrueNorth AI,540000,Discovery,Open,Sam Torres,DevTools,Enterprise,5,No Objection,10,61,22.3
+OPP-0136,Hallmark Software,130000,Qualification,Open,Priya Nair,E-Commerce,Mid-Market,40,Competitor Preference,16,51,23.8
+OPP-0137,Fulcrum Systems,29000,Proposal,Open,Alex Chen,HR Tech,SMB,29,Contract Terms,31,70,57.4
+OPP-0138,Platform9 Inc,17000,Discovery,Open,Casey Park,Cybersecurity,SMB,13,Competitor Preference,4,48,56.4
+OPP-0139,Cloudgate Software,60000,Discovery,Open,Alex Chen,Cybersecurity,Mid-Market,31,Budget Freeze,22,51,17.8
+OPP-0140,TerraLogic,140000,Discovery,Open,Marcus Rivera,E-Commerce,Mid-Market,11,Pricing,25,47,42.3
+OPP-0141,Lodestar AI,65000,Closed Won,Won,Priya Nair,FinTech,Mid-Market,4,No Objection,52,77,63.0
+OPP-0142,Uplink AI,115000,Prospecting,Open,Sam Torres,FinTech,Mid-Market,1,Stakeholder Alignment,7,42,43.0
+OPP-0143,Highpoint Tech,31000,Proposal,Open,Casey Park,Insurance Tech,SMB,49,ROI Justification,38,49,48.8
+OPP-0144,Deepwater Analytics,140000,Negotiation,Open,Riley Scott,FinTech,Mid-Market,20,Pricing,33,72,61.2
+OPP-0145,Flux Platforms,105000,Closed Won,Won,Dana Kim,HealthTech,Mid-Market,1,Security Concerns,67,71,70.9
+OPP-0146,Brightpath Software,125000,Discovery,Open,Jordan Blake,HealthTech,Mid-Market,24,No Objection,26,35,20.9
+OPP-0147,Lumen Cloud,90000,Qualification,Open,Sam Torres,Logistics,Mid-Market,38,Contract Terms,28,44,57.9
+OPP-0148,Crest Cloud,14000,Closed Lost,Lost,Jordan Blake,Insurance Tech,SMB,5,Contract Terms,43,54,19.6
+OPP-0149,Brookside AI,12000,Discovery,Open,Jordan Blake,EdTech,SMB,4,ROI Justification,14,54,59.5
+OPP-0150,Relay Platforms,27000,Qualification,Open,Dana Kim,E-Commerce,SMB,22,Pricing,17,45,16.6
+OPP-0151,Skymark Cloud,27000,Discovery,Open,Dana Kim,FinTech,SMB,5,Stakeholder Alignment,24,57,63.6
+OPP-0152,Pinnacle Data,100000,Qualification,Open,Riley Scott,DevTools,Mid-Market,42,Budget Freeze,26,60,51.8
+OPP-0153,Conduit Software,135000,Qualification,Open,Jordan Blake,Insurance Tech,Mid-Market,37,No Objection,15,63,43.1
+OPP-0154,Vortex Tech,31000,Negotiation,Open,Alex Chen,MarTech,SMB,21,ROI Justification,61,45,68.1
+OPP-0155,Overture Tech,16000,Closed Lost,Lost,Dana Kim,HealthTech,SMB,6,Competitor Preference,19,11,12.2
+OPP-0156,Archway Tech,90000,Discovery,Open,Alex Chen,Manufacturing,Mid-Market,21,Timing,20,44,60.7
+OPP-0157,Cliffside AI,12000,Closed Won,Won,Morgan Lee,HealthTech,SMB,3,Pricing,100,83,92.7
+OPP-0158,Nimbus Tech,560000,Proposal,Open,Jamie Wu,Cybersecurity,Enterprise,63,No Objection,55,77,75.6
+OPP-0159,Zenith Cloud,95000,Proposal,Open,Jamie Wu,EdTech,Mid-Market,17,Pricing,49,79,82.3
+OPP-0160,Coda Analytics,19000,Negotiation,Open,Riley Scott,RetailTech,SMB,56,Pricing,62,61,76.5
+OPP-0161,Capstone Software,60000,Proposal,Open,Sam Torres,HR Tech,Mid-Market,63,Stakeholder Alignment,19,62,54.6
+OPP-0162,Ember Technologies,145000,Discovery,Open,Morgan Lee,FinTech,Mid-Market,11,Competitor Preference,29,39,42.3
+OPP-0163,Centric Platforms,115000,Discovery,Open,Alex Chen,DevTools,Mid-Market,9,No Objection,22,35,42.0
+OPP-0164,Canopy Software,150000,Discovery,Open,Morgan Lee,MarTech,Mid-Market,8,Security Concerns,12,50,18.9
+OPP-0165,Lumina Analytics,130000,Prospecting,Open,Casey Park,Real Estate Tech,Mid-Market,16,Feature Gap,15,43,64.8
+OPP-0166,Valleyforge Cloud,140000,Qualification,Open,Alex Chen,MarTech,Mid-Market,27,Competitor Preference,24,51,45.9
+OPP-0167,Arclight Solutions,110000,Proposal,Open,Marcus Rivera,RetailTech,Mid-Market,11,Pricing,52,52,56.7
+OPP-0168,Meridian Software,36000,Discovery,Open,Riley Scott,MarTech,SMB,18,Timing,20,47,59.0
+OPP-0169,Hardline Software,105000,Proposal,Open,Jordan Blake,RetailTech,Mid-Market,21,No Objection,42,62,70.5
+OPP-0170,Ridge Systems,370000,Closed Lost,Lost,Sam Torres,EdTech,Enterprise,8,Competitor Preference,40,39,12.5
+OPP-0171,Netcrest Analytics,16000,Discovery,Open,Casey Park,Real Estate Tech,SMB,24,Security Concerns,24,40,19.8
+OPP-0172,Flatrock Cloud,55000,Closed Won,Won,Riley Scott,Insurance Tech,Mid-Market,0,No Objection,73,76,70.1
+OPP-0173,NovaTech Solutions,22000,Closed Won,Won,Dana Kim,HealthTech,SMB,4,No Objection,63,85,77.5
+OPP-0174,Quantum Leap Inc,95000,Discovery,Open,Alex Chen,MarTech,Mid-Market,16,Pricing,18,48,39.0
+OPP-0175,Nexus Platforms,105000,Discovery,Open,Marcus Rivera,EdTech,Mid-Market,23,Stakeholder Alignment,14,49,26.8
+OPP-0176,Luminary Data,125000,Discovery,Open,Riley Scott,Real Estate Tech,Mid-Market,22,Contract Terms,15,58,52.1
+OPP-0177,Cobalt Systems,470000,Negotiation,Open,Alex Chen,EdTech,Enterprise,59,Pricing,45,79,65.4
+OPP-0178,Dockside AI,16000,Discovery,Open,Jamie Wu,Insurance Tech,SMB,12,Contract Terms,23,41,45.4
+OPP-0179,Momentum Cloud,95000,Discovery,Open,Dana Kim,Insurance Tech,Mid-Market,24,ROI Justification,14,66,43.4
+OPP-0180,Sagelink Analytics,160000,Discovery,Open,Jordan Blake,FinTech,Mid-Market,25,Stakeholder Alignment,18,53,42.3
+OPP-0181,Eclipse Software,570000,Proposal,Open,Riley Scott,MarTech,Enterprise,36,Feature Gap,17,77,69.0
+OPP-0182,Momentum AI,320000,Qualification,Open,Dana Kim,EdTech,Enterprise,29,Feature Gap,42,51,34.7
+OPP-0183,Orion Ventures,27000,Prospecting,Open,Morgan Lee,Insurance Tech,SMB,1,Security Concerns,13,54,42.9
+OPP-0184,Compass Cloud,65000,Prospecting,Open,Sam Torres,Logistics,Mid-Market,4,No Objection,11,48,46.8
+OPP-0185,Synapse AI,19000,Proposal,Open,Morgan Lee,EdTech,SMB,52,Security Concerns,32,54,62.5
+OPP-0186,Rampart Cloud,65000,Negotiation,Open,Priya Nair,Cybersecurity,Mid-Market,47,Timing,43,58,58.9
+OPP-0187,Highlands Data,290000,Closed Lost,Lost,Marcus Rivera,Insurance Tech,Enterprise,0,Budget Freeze,16,6,21.6
+OPP-0188,Vanguard Data,31000,Closed Won,Won,Sam Torres,RetailTech,SMB,0,No Objection,93,84,90.1
+OPP-0189,Folio Data,29000,Prospecting,Open,Sam Torres,PropTech,SMB,9,ROI Justification,13,41,18.0
+OPP-0190,Signal Tech,18000,Proposal,Open,Morgan Lee,E-Commerce,SMB,50,Pricing,48,70,75.5
+OPP-0191,Cornerstone Data,39000,Proposal,Open,Jamie Wu,Logistics,SMB,46,Competitor Preference,59,59,66.5
+OPP-0192,Vantage Analytics,95000,Discovery,Open,Jordan Blake,PropTech,Mid-Market,18,Timing,30,51,30.5
+OPP-0193,Clearstep Analytics,70000,Qualification,Open,Alex Chen,Cybersecurity,Mid-Market,38,Feature Gap,24,50,39.1
+OPP-0194,Streamline Analytics,15000,Proposal,Open,Sam Torres,Logistics,SMB,17,Timing,18,49,46.1
+OPP-0195,Elevate Tech,17000,Closed Lost,Lost,Sam Torres,RetailTech,SMB,7,Competitor Preference,8,22,17.6
+OPP-0196,Greenfield Tech,145000,Prospecting,Open,Sam Torres,Insurance Tech,Mid-Market,7,Stakeholder Alignment,18,53,59.1
+OPP-0197,Pulse Platforms,580000,Qualification,Open,Morgan Lee,FinTech,Enterprise,35,Budget Freeze,29,39,31.8
+OPP-0198,HighRidge Tech,470000,Discovery,Open,Dana Kim,HR Tech,Enterprise,23,Feature Gap,11,60,21.6
+OPP-0199,Tidal Software,32000,Qualification,Open,Jordan Blake,HealthTech,SMB,13,Timing,13,41,58.1
+OPP-0200,Bedrock Platforms,90000,Qualification,Open,Jamie Wu,E-Commerce,Mid-Market,19,Budget Freeze,10,67,31.2
+OPP-0201,Traverse Analytics,90000,Qualification,Open,Casey Park,FinTech,Mid-Market,21,Security Concerns,39,40,45.3
+OPP-0202,Ironbridge AI,700000,Discovery,Open,Marcus Rivera,Cybersecurity,Enterprise,27,ROI Justification,26,41,57.9
+OPP-0203,Citadel Cloud,100000,Closed Won,Won,Riley Scott,MarTech,Mid-Market,1,ROI Justification,90,76,85.3
+OPP-0204,Echo Cloud,500000,Closed Lost,Lost,Marcus Rivera,E-Commerce,Enterprise,2,Pricing,17,19,14.3
+OPP-0205,Meadowpoint Systems,80000,Proposal,Open,Riley Scott,Insurance Tech,Mid-Market,32,Pricing,29,66,60.5
+OPP-0206,Sterling Systems,75000,Proposal,Open,Priya Nair,PropTech,Mid-Market,42,Pricing,25,74,58.2
+OPP-0207,Rivergate Tech,680000,Closed Won,Won,Jamie Wu,Real Estate Tech,Enterprise,0,No Objection,85,73,77.1
+OPP-0208,Praxis Platforms,750000,Proposal,Open,Alex Chen,Manufacturing,Enterprise,38,No Objection,14,63,46.0
+OPP-0209,Fieldstone AI,14000,Qualification,Open,Morgan Lee,PropTech,SMB,12,Timing,24,46,35.8
+OPP-0210,Stronghold Tech,30000,Qualification,Open,Sam Torres,Manufacturing,SMB,37,Contract Terms,19,49,20.9
+OPP-0211,Fortis Tech,145000,Negotiation,Open,Priya Nair,Manufacturing,Mid-Market,16,Competitor Preference,41,63,55.9
+OPP-0212,Radian Tech,13000,Negotiation,Open,Priya Nair,HealthTech,SMB,33,Feature Gap,36,67,69.2
+OPP-0213,Stellar Operations,450000,Closed Won,Won,Alex Chen,Cybersecurity,Enterprise,0,No Objection,84,97,89.6
+OPP-0214,Anchor Analytics,125000,Qualification,Open,Priya Nair,Real Estate Tech,Mid-Market,44,Feature Gap,26,67,32.9
+OPP-0215,Apex Dynamics,340000,Discovery,Open,Riley Scott,EdTech,Enterprise,28,No Objection,13,53,23.0
+OPP-0216,Titan Software,680000,Discovery,Open,Jamie Wu,Logistics,Enterprise,4,Stakeholder Alignment,12,63,59.3
+OPP-0217,BlueRidge SaaS,340000,Closed Won,Won,Dana Kim,HR Tech,Enterprise,3,No Objection,96,96,95.9
+OPP-0218,CoreLogic Pro,100000,Qualification,Open,Morgan Lee,MarTech,Mid-Market,18,Budget Freeze,21,71,62.7
+OPP-0219,Verilink Data,730000,Qualification,Open,Morgan Lee,HR Tech,Enterprise,35,Competitor Preference,30,60,32.3
+OPP-0220,Paragon Systems,500000,Proposal,Open,Casey Park,RetailTech,Enterprise,26,No Objection,54,57,73.7
+OPP-0221,Summit Digital,130000,Qualification,Open,Riley Scott,HR Tech,Mid-Market,40,Security Concerns,29,50,37.4
+OPP-0222,Harbor Analytics,100000,Closed Won,Won,Jordan Blake,Manufacturing,Mid-Market,0,ROI Justification,58,84,69.5
+OPP-0223,Ascend Systems,590000,Qualification,Open,Dana Kim,FinTech,Enterprise,19,Security Concerns,11,61,18.2
+OPP-0224,Latitude Tech,10000,Prospecting,Open,Riley Scott,MarTech,SMB,9,Security Concerns,12,36,60.3
+OPP-0225,Vela Systems,80000,Discovery,Open,Morgan Lee,PropTech,Mid-Market,24,ROI Justification,10,50,51.7
+OPP-0226,WestEdge Cloud,20000,Proposal,Open,Morgan Lee,DevTools,SMB,53,Stakeholder Alignment,52,58,70.3
+OPP-0227,Synergy Data,21000,Closed Lost,Lost,Jordan Blake,FinTech,SMB,2,ROI Justification,11,35,10.9
+OPP-0228,Frontier Systems,65000,Prospecting,Open,Jamie Wu,DevTools,Mid-Market,4,No Objection,1,52,43.8
+OPP-0229,Bastion AI,590000,Proposal,Open,Casey Park,HR Tech,Enterprise,61,ROI Justification,15,51,42.0
+OPP-0230,Trident Analytics,65000,Closed Won,Won,Priya Nair,Real Estate Tech,Mid-Market,0,No Objection,62,65,62.4
+OPP-0231,Torch AI,15000,Qualification,Open,Jordan Blake,FinTech,SMB,42,No Objection,26,52,47.9
+OPP-0232,Solstice Software,750000,Closed Won,Won,Jordan Blake,PropTech,Enterprise,1,Pricing,81,65,67.2
+OPP-0233,Crosspoint AI,740000,Qualification,Open,Jordan Blake,Legal Tech,Enterprise,35,No Objection,36,40,21.9
+OPP-0234,Millstone Tech,90000,Prospecting,Open,Priya Nair,PropTech,Mid-Market,8,Budget Freeze,12,46,28.2
+OPP-0235,Clearview AI,420000,Discovery,Open,Marcus Rivera,Legal Tech,Enterprise,12,No Objection,21,45,20.2
+OPP-0236,Delta Metrics,600000,Negotiation,Open,Morgan Lee,DevTools,Enterprise,36,Budget Freeze,41,60,56.4
+OPP-0237,Spire Analytics,150000,Qualification,Open,Riley Scott,Logistics,Mid-Market,32,Competitor Preference,21,47,41.2
+OPP-0238,Hillcrest Software,410000,Discovery,Open,Riley Scott,PropTech,Enterprise,18,No Objection,15,47,34.3
+OPP-0239,Veritas AI,35000,Closed Lost,Lost,Sam Torres,Cybersecurity,SMB,4,Pricing,5,29,21.4
+OPP-0240,NorthStar Data,80000,Closed Lost,Lost,Sam Torres,RetailTech,Mid-Market,1,ROI Justification,16,33,18.3
+OPP-0241,Lakefront Tech,55000,Proposal,Open,Riley Scott,Legal Tech,Mid-Market,18,Stakeholder Alignment,34,59,60.1
+OPP-0242,Orbit Software,115000,Prospecting,Open,Priya Nair,Legal Tech,Mid-Market,14,ROI Justification,13,53,52.5
+OPP-0243,Apexion Systems,90000,Closed Lost,Lost,Alex Chen,FinTech,Mid-Market,0,Feature Gap,31,24,7.2
+OPP-0244,Oceanside Software,420000,Qualification,Open,Jordan Blake,MarTech,Enterprise,45,Contract Terms,18,71,33.5
+OPP-0245,Ridgeline Cloud,370000,Discovery,Open,Marcus Rivera,MarTech,Enterprise,22,No Objection,29,35,35.2
+OPP-0246,NetForge AI,19000,Proposal,Open,Riley Scott,FinTech,SMB,32,Security Concerns,31,47,46.8
+OPP-0247,Beacon Cloud,32000,Qualification,Open,Morgan Lee,Real Estate Tech,SMB,41,Budget Freeze,40,70,46.7
+OPP-0248,Radiant Data,36000,Proposal,Open,Morgan Lee,HR Tech,SMB,11,Budget Freeze,28,49,60.1
+OPP-0249,Ironclad Systems,65000,Qualification,Open,Riley Scott,Legal Tech,Mid-Market,45,Stakeholder Alignment,21,55,21.7
+OPP-0250,Flagstone Analytics,500000,Closed Won,Won,Sam Torres,EdTech,Enterprise,4,Budget Freeze,63,94,81.5
+OPP-0251,Vertex Systems,120000,Proposal,Open,Priya Nair,DevTools,Mid-Market,53,Budget Freeze,50,45,62.2
+OPP-0252,Pathfinder Systems,120000,Discovery,Open,Priya Nair,Manufacturing,Mid-Market,16,Pricing,15,43,28.5
+OPP-0253,Pinnacle Cloud,22000,Closed Won,Won,Sam Torres,PropTech,SMB,2,No Objection,77,73,71.5
+OPP-0254,Prism Platforms,18000,Prospecting,Open,Riley Scott,HR Tech,SMB,6,Feature Gap,20,54,19.0
+OPP-0255,Keystone SaaS,430000,Proposal,Open,Jamie Wu,EdTech,Enterprise,58,Pricing,26,60,64.8
+OPP-0256,Shoreline Systems,110000,Negotiation,Open,Priya Nair,Real Estate Tech,Mid-Market,40,Pricing,45,79,76.9
+OPP-0257,Solara AI,690000,Proposal,Open,Sam Torres,Real Estate Tech,Enterprise,63,Security Concerns,26,46,50.6
+OPP-0258,Lynx Systems,36000,Qualification,Open,Alex Chen,Insurance Tech,SMB,27,Competitor Preference,15,51,24.9
+OPP-0259,Axiom Software,140000,Proposal,Open,Casey Park,Legal Tech,Mid-Market,58,Timing,26,69,59.7
+OPP-0260,Groundwork Systems,720000,Qualification,Open,Jordan Blake,MarTech,Enterprise,21,Pricing,19,47,62.8
+OPP-0261,Ironclad Cloud,280000,Prospecting,Open,Morgan Lee,Insurance Tech,Enterprise,12,No Objection,27,41,48.2
+OPP-0262,Pillar Systems,560000,Closed Won,Won,Casey Park,Logistics,Enterprise,1,No Objection,88,71,81.8
+OPP-0263,Matrix Dynamics,17000,Qualification,Open,Sam Torres,Real Estate Tech,SMB,29,Stakeholder Alignment,15,46,41.3
+OPP-0264,Corex Platforms,40000,Discovery,Open,Marcus Rivera,RetailTech,SMB,6,Competitor Preference,19,39,34.2
+OPP-0265,Forefront Cloud,37000,Proposal,Open,Alex Chen,E-Commerce,SMB,20,Feature Gap,52,57,61.2
+OPP-0266,Horizon Cloud,23000,Discovery,Open,Dana Kim,RetailTech,SMB,26,No Objection,18,50,32.9
+OPP-0267,Drift Analytics,540000,Discovery,Open,Casey Park,DevTools,Enterprise,8,Security Concerns,21,47,56.9
+OPP-0268,Crest Analytics,150000,Discovery,Open,Jamie Wu,PropTech,Mid-Market,6,Contract Terms,19,40,16.5
+OPP-0269,Astral Software,85000,Qualification,Open,Dana Kim,Cybersecurity,Mid-Market,20,Contract Terms,25,36,30.2
+OPP-0270,Velocity AI,160000,Closed Lost,Lost,Alex Chen,EdTech,Mid-Market,6,Timing,31,24,18.8
+OPP-0271,Celer Platforms,21000,Qualification,Open,Sam Torres,HR Tech,SMB,43,Budget Freeze,28,54,18.6
+OPP-0272,Contour Analytics,310000,Qualification,Open,Jordan Blake,DevTools,Enterprise,18,Stakeholder Alignment,37,65,63.5
+OPP-0273,Helix Software,100000,Proposal,Open,Casey Park,Real Estate Tech,Mid-Market,36,Competitor Preference,33,43,52.5
+OPP-0274,Relay Systems,40000,Qualification,Open,Morgan Lee,HealthTech,SMB,18,Budget Freeze,27,36,29.1
+OPP-0275,Scout Analytics,185000,Discovery,Open,Alex Chen,HR Tech,Mid-Market,5,No Objection,31,60,15.3
+OPP-0276,Nimble Tech,85000,Closed Won,Won,Marcus Rivera,E-Commerce,Mid-Market,2,Pricing,89,92,85.0
+OPP-0277,Polaris Data,75000,Discovery,Open,Jamie Wu,FinTech,Mid-Market,6,Stakeholder Alignment,9,47,27.0
+OPP-0278,Keystone Cloud,690000,Discovery,Open,Sam Torres,Legal Tech,Enterprise,6,Budget Freeze,19,34,59.0
+OPP-0279,Cascade Technologies,380000,Qualification,Open,Casey Park,Cybersecurity,Enterprise,27,Pricing,10,60,20.8
+OPP-0280,Equinox Cloud,280000,Qualification,Open,Dana Kim,HR Tech,Enterprise,29,ROI Justification,38,66,32.2
+OPP-0281,Nucleus Software,105000,Qualification,Open,Sam Torres,HealthTech,Mid-Market,22,ROI Justification,27,40,34.7
+OPP-0282,Stratos AI,19000,Discovery,Open,Casey Park,Insurance Tech,SMB,27,Pricing,9,66,36.8
+OPP-0283,Irongate Software,65000,Negotiation,Open,Dana Kim,RetailTech,Mid-Market,92,ROI Justification,52,62,63.4
+OPP-0284,Grid Dynamics,115000,Qualification,Open,Alex Chen,EdTech,Mid-Market,37,Stakeholder Alignment,31,41,56.7
+OPP-0285,Mosaic Tech,105000,Closed Won,Won,Morgan Lee,Cybersecurity,Mid-Market,1,No Objection,86,79,76.4
+OPP-0286,TrueNorth AI,21000,Proposal,Open,Jordan Blake,Insurance Tech,SMB,23,Stakeholder Alignment,21,48,40.6
+OPP-0287,Hallmark Software,490000,Closed Won,Won,Jamie Wu,Real Estate Tech,Enterprise,3,No Objection,84,99,88.2
+OPP-0288,Fulcrum Systems,450000,Proposal,Open,Priya Nair,DevTools,Enterprise,18,Feature Gap,17,49,46.4
+OPP-0289,Platform9 Inc,75000,Proposal,Open,Alex Chen,DevTools,Mid-Market,21,No Objection,45,49,67.8
+OPP-0290,Cloudgate Software,100000,Negotiation,Open,Alex Chen,Legal Tech,Mid-Market,38,ROI Justification,25,52,47.0
+OPP-0291,TerraLogic,490000,Qualification,Open,Morgan Lee,E-Commerce,Enterprise,30,Security Concerns,21,57,47.3
+OPP-0292,Lodestar AI,16000,Closed Won,Won,Riley Scott,Cybersecurity,SMB,0,Timing,73,95,87.2
+OPP-0293,Uplink AI,660000,Qualification,Open,Morgan Lee,Legal Tech,Enterprise,24,Budget Freeze,23,58,45.1
+OPP-0294,Highpoint Tech,13000,Proposal,Open,Riley Scott,Manufacturing,SMB,16,ROI Justification,29,48,55.4
+OPP-0295,Deepwater Analytics,26000,Qualification,Open,Jordan Blake,MarTech,SMB,44,Pricing,24,47,40.3
+OPP-0296,Flux Platforms,115000,Negotiation,Open,Jamie Wu,Insurance Tech,Mid-Market,47,Feature Gap,56,77,73.9
+OPP-0297,Brightpath Software,340000,Proposal,Open,Priya Nair,DevTools,Enterprise,46,Competitor Preference,14,61,48.5
+OPP-0298,Lumen Cloud,32000,Qualification,Open,Dana Kim,MarTech,SMB,30,Stakeholder Alignment,35,67,59.3
+OPP-0299,Crest Cloud,115000,Proposal,Open,Jamie Wu,FinTech,Mid-Market,56,Contract Terms,33,44,43.0
+OPP-0300,Brookside AI,70000,Proposal,Open,Morgan Lee,Real Estate Tech,Mid-Market,55,Budget Freeze,54,58,62.4
+OPP-0301,Relay Platforms,12000,Negotiation,Open,Jamie Wu,HR Tech,SMB,78,Contract Terms,36,55,54.1
+OPP-0302,Skymark Cloud,29000,Discovery,Open,Casey Park,RetailTech,SMB,18,ROI Justification,15,39,53.1
+OPP-0303,Pinnacle Data,270000,Closed Won,Won,Morgan Lee,Real Estate Tech,Enterprise,3,No Objection,73,99,86.4
+OPP-0304,Conduit Software,90000,Discovery,Open,Priya Nair,HealthTech,Mid-Market,18,No Objection,13,37,61.9
+OPP-0305,Vortex Tech,120000,Proposal,Open,Priya Nair,HR Tech,Mid-Market,25,Budget Freeze,52,59,74.1
+OPP-0306,Overture Tech,34000,Prospecting,Open,Sam Torres,Real Estate Tech,SMB,13,Timing,30,52,45.4
+OPP-0307,Archway Tech,23000,Prospecting,Open,Casey Park,FinTech,SMB,15,ROI Justification,27,42,55.8
+OPP-0308,Cliffside AI,22000,Discovery,Open,Riley Scott,HR Tech,SMB,16,Feature Gap,19,55,36.5
+OPP-0309,Nimbus Tech,65000,Qualification,Open,Jamie Wu,E-Commerce,Mid-Market,20,Feature Gap,16,60,20.8
+OPP-0310,Zenith Cloud,500000,Proposal,Open,Riley Scott,Legal Tech,Enterprise,26,Budget Freeze,49,76,64.6
+OPP-0311,Coda Analytics,38000,Discovery,Open,Jordan Blake,MarTech,SMB,24,Feature Gap,24,42,30.0
+OPP-0312,Capstone Software,100000,Prospecting,Open,Marcus Rivera,Cybersecurity,Mid-Market,10,Budget Freeze,15,44,55.3
+OPP-0313,Ember Technologies,140000,Proposal,Open,Priya Nair,E-Commerce,Mid-Market,25,No Objection,33,68,58.1
+OPP-0314,Centric Platforms,31000,Qualification,Open,Priya Nair,HealthTech,SMB,43,Feature Gap,29,46,24.7
+OPP-0315,Canopy Software,37000,Discovery,Open,Casey Park,PropTech,SMB,7,Security Concerns,27,60,21.9
+OPP-0316,Lumina Analytics,55000,Qualification,Open,Alex Chen,Logistics,Mid-Market,34,Competitor Preference,23,42,22.0
+OPP-0317,Valleyforge Cloud,13000,Negotiation,Open,Jordan Blake,Legal Tech,SMB,38,Pricing,36,53,47.4
+OPP-0318,Arclight Solutions,320000,Qualification,Open,Riley Scott,MarTech,Enterprise,30,Pricing,28,60,40.8
+OPP-0319,Meridian Software,60000,Negotiation,Open,Priya Nair,PropTech,Mid-Market,58,Pricing,27,56,48.1
+OPP-0320,Hardline Software,720000,Prospecting,Open,Casey Park,Insurance Tech,Enterprise,16,Pricing,15,50,52.8
+OPP-0321,Ridge Systems,23000,Prospecting,Open,Marcus Rivera,Real Estate Tech,SMB,8,Competitor Preference,17,41,44.6
+OPP-0322,Netcrest Analytics,22000,Proposal,Open,Priya Nair,PropTech,SMB,56,Stakeholder Alignment,53,61,65.8
+OPP-0323,Flatrock Cloud,60000,Discovery,Open,Priya Nair,Real Estate Tech,Mid-Market,11,No Objection,30,37,49.7
+OPP-0324,NovaTech Solutions,75000,Qualification,Open,Morgan Lee,HealthTech,Mid-Market,41,Budget Freeze,40,62,53.4
+OPP-0325,Quantum Leap Inc,21000,Proposal,Open,Jordan Blake,Real Estate Tech,SMB,56,Stakeholder Alignment,46,67,68.6
+OPP-0326,Nexus Platforms,100000,Discovery,Open,Morgan Lee,HR Tech,Mid-Market,15,Feature Gap,6,38,62.1
+OPP-0327,Luminary Data,34000,Proposal,Open,Marcus Rivera,MarTech,SMB,22,Timing,48,58,72.3
+OPP-0328,Cobalt Systems,165000,Qualification,Open,Jamie Wu,DevTools,Mid-Market,20,Timing,10,51,48.3
+OPP-0329,Dockside AI,460000,Qualification,Open,Riley Scott,Manufacturing,Enterprise,21,No Objection,36,45,22.0
+OPP-0330,Momentum Cloud,690000,Qualification,Open,Sam Torres,HR Tech,Enterprise,24,Contract Terms,14,59,33.8
+OPP-0331,Sagelink Analytics,120000,Prospecting,Open,Morgan Lee,Manufacturing,Mid-Market,18,Competitor Preference,11,38,58.3
+OPP-0332,Eclipse Software,790000,Closed Won,Won,Morgan Lee,Insurance Tech,Enterprise,4,No Objection,70,67,69.0
+OPP-0333,Momentum AI,60000,Discovery,Open,Marcus Rivera,HR Tech,Mid-Market,29,Security Concerns,18,50,24.9
+OPP-0334,Orion Ventures,27000,Negotiation,Open,Morgan Lee,Manufacturing,SMB,72,Security Concerns,59,53,65.1
+OPP-0335,Compass Cloud,60000,Proposal,Open,Morgan Lee,MarTech,Mid-Market,63,Stakeholder Alignment,44,65,66.3
+OPP-0336,Synapse AI,130000,Discovery,Open,Casey Park,Manufacturing,Mid-Market,14,Feature Gap,33,39,43.8
+OPP-0337,Rampart Cloud,85000,Prospecting,Open,Casey Park,Legal Tech,Mid-Market,14,Pricing,23,56,16.9
+OPP-0338,Highlands Data,350000,Prospecting,Open,Morgan Lee,Manufacturing,Enterprise,8,No Objection,13,40,30.5
+OPP-0339,Vanguard Data,460000,Prospecting,Open,Casey Park,RetailTech,Enterprise,2,No Objection,14,48,58.1
+OPP-0340,Folio Data,350000,Qualification,Open,Alex Chen,Insurance Tech,Enterprise,8,Pricing,33,58,34.3
+OPP-0341,Signal Tech,135000,Closed Lost,Lost,Casey Park,Manufacturing,Mid-Market,5,Security Concerns,31,13,15.7
+OPP-0342,Cornerstone Data,26000,Closed Won,Won,Alex Chen,Real Estate Tech,SMB,1,No Objection,61,80,74.8
+OPP-0343,Vantage Analytics,60000,Prospecting,Open,Casey Park,E-Commerce,Mid-Market,8,Stakeholder Alignment,12,51,44.2
+OPP-0344,Clearstep Analytics,24000,Prospecting,Open,Casey Park,RetailTech,SMB,12,Stakeholder Alignment,7,47,54.0
+OPP-0345,Streamline Analytics,530000,Negotiation,Open,Sam Torres,Insurance Tech,Enterprise,40,Pricing,43,48,66.4
+OPP-0346,Elevate Tech,460000,Discovery,Open,Marcus Rivera,MarTech,Enterprise,7,Budget Freeze,12,39,54.3
+OPP-0347,Greenfield Tech,490000,Qualification,Open,Alex Chen,Real Estate Tech,Enterprise,19,Security Concerns,20,43,36.3
+OPP-0348,Pulse Platforms,440000,Discovery,Open,Morgan Lee,RetailTech,Enterprise,24,Budget Freeze,11,51,48.8
+OPP-0349,HighRidge Tech,70000,Closed Won,Won,Casey Park,RetailTech,Mid-Market,4,No Objection,59,72,70.1
+OPP-0350,Tidal Software,20000,Qualification,Open,Jamie Wu,PropTech,SMB,44,Feature Gap,25,65,58.0
+OPP-0351,Bedrock Platforms,300000,Proposal,Open,Casey Park,Manufacturing,Enterprise,27,Budget Freeze,15,52,58.1
+OPP-0352,Traverse Analytics,27000,Qualification,Open,Casey Park,PropTech,SMB,33,Stakeholder Alignment,36,65,55.6
+OPP-0353,Ironbridge AI,20000,Discovery,Open,Jordan Blake,FinTech,SMB,8,Feature Gap,28,41,45.4
+OPP-0354,Citadel Cloud,380000,Discovery,Open,Casey Park,HR Tech,Enterprise,4,Timing,14,56,49.4
+OPP-0355,Echo Cloud,320000,Qualification,Open,Sam Torres,FinTech,Enterprise,8,Feature Gap,32,45,44.5
+OPP-0356,Meadowpoint Systems,550000,Negotiation,Open,Dana Kim,Manufacturing,Enterprise,79,ROI Justification,37,59,56.3
+OPP-0357,Sterling Systems,135000,Qualification,Open,Casey Park,E-Commerce,Mid-Market,18,Pricing,16,44,17.1
+OPP-0358,Rivergate Tech,490000,Qualification,Open,Priya Nair,DevTools,Enterprise,27,Feature Gap,10,58,18.0
+OPP-0359,Praxis Platforms,120000,Discovery,Open,Alex Chen,MarTech,Mid-Market,15,Competitor Preference,17,45,31.8
+OPP-0360,Fieldstone AI,20000,Proposal,Open,Morgan Lee,Cybersecurity,SMB,46,Security Concerns,41,57,70.3
+OPP-0361,Stronghold Tech,60000,Closed Won,Won,Dana Kim,Cybersecurity,Mid-Market,4,Pricing,94,67,78.0
+OPP-0362,Fortis Tech,90000,Proposal,Open,Jamie Wu,Insurance Tech,Mid-Market,31,ROI Justification,38,63,63.9
+OPP-0363,Radian Tech,16000,Negotiation,Open,Riley Scott,Logistics,SMB,42,Pricing,24,74,65.1
+OPP-0364,Stellar Operations,130000,Discovery,Open,Morgan Lee,HR Tech,Mid-Market,29,Security Concerns,29,46,26.3
+OPP-0365,Anchor Analytics,400000,Proposal,Open,Alex Chen,FinTech,Enterprise,22,No Objection,27,46,57.0
+OPP-0366,Apex Dynamics,230000,Qualification,Open,Marcus Rivera,Legal Tech,Enterprise,23,Contract Terms,13,41,26.2
+OPP-0367,Titan Software,85000,Closed Won,Won,Morgan Lee,MarTech,Mid-Market,0,No Objection,66,84,75.7
+OPP-0368,BlueRidge SaaS,260000,Proposal,Open,Morgan Lee,Real Estate Tech,Enterprise,64,Pricing,41,81,70.4
+OPP-0369,CoreLogic Pro,670000,Discovery,Open,Casey Park,Insurance Tech,Enterprise,13,Budget Freeze,31,59,39.2
+OPP-0370,Verilink Data,19000,Qualification,Open,Casey Park,HR Tech,SMB,25,ROI Justification,20,41,63.9
+OPP-0371,Paragon Systems,65000,Closed Won,Won,Morgan Lee,FinTech,Mid-Market,0,Feature Gap,77,84,80.6
+OPP-0372,Summit Digital,450000,Proposal,Open,Dana Kim,Manufacturing,Enterprise,13,Competitor Preference,46,47,63.3
+OPP-0373,Harbor Analytics,65000,Qualification,Open,Jamie Wu,Logistics,Mid-Market,11,Contract Terms,17,60,32.1
+OPP-0374,Ascend Systems,22000,Closed Won,Won,Jamie Wu,Insurance Tech,SMB,2,No Objection,69,99,87.2
+OPP-0375,Latitude Tech,690000,Qualification,Open,Jamie Wu,Real Estate Tech,Enterprise,27,Security Concerns,20,46,21.9
+OPP-0376,Vela Systems,410000,Qualification,Open,Alex Chen,MarTech,Enterprise,21,Contract Terms,35,59,19.5
+OPP-0377,WestEdge Cloud,33000,Negotiation,Open,Marcus Rivera,HealthTech,SMB,62,ROI Justification,62,75,66.8
+OPP-0378,Synergy Data,15000,Negotiation,Open,Morgan Lee,Cybersecurity,SMB,44,ROI Justification,68,57,62.5
+OPP-0379,Frontier Systems,390000,Discovery,Open,Casey Park,Logistics,Enterprise,4,No Objection,25,52,54.1
+OPP-0380,Bastion AI,590000,Discovery,Open,Dana Kim,RetailTech,Enterprise,19,No Objection,28,52,46.0
+OPP-0381,Trident Analytics,460000,Negotiation,Open,Dana Kim,Logistics,Enterprise,91,Contract Terms,46,83,83.2
+OPP-0382,Torch AI,95000,Negotiation,Open,Jamie Wu,HealthTech,Mid-Market,37,Competitor Preference,35,64,53.8
+OPP-0383,Solstice Software,510000,Discovery,Open,Jordan Blake,DevTools,Enterprise,31,Competitor Preference,27,46,45.4
+OPP-0384,Crosspoint AI,19000,Closed Lost,Lost,Marcus Rivera,Logistics,SMB,3,Budget Freeze,26,51,17.2
+OPP-0385,Millstone Tech,110000,Closed Lost,Lost,Alex Chen,E-Commerce,Mid-Market,5,Pricing,48,17,21.4
+OPP-0386,Clearview AI,42000,Qualification,Open,Marcus Rivera,Insurance Tech,SMB,32,Competitor Preference,25,57,64.8
+OPP-0387,Delta Metrics,55000,Proposal,Open,Priya Nair,FinTech,Mid-Market,36,Stakeholder Alignment,22,44,57.7
+OPP-0388,Spire Analytics,260000,Prospecting,Open,Sam Torres,Logistics,Enterprise,18,ROI Justification,5,45,27.8
+OPP-0389,Hillcrest Software,19000,Prospecting,Open,Casey Park,MarTech,SMB,18,Security Concerns,6,56,58.6
+OPP-0390,Veritas AI,27000,Discovery,Open,Marcus Rivera,Real Estate Tech,SMB,26,Stakeholder Alignment,25,53,21.1
+OPP-0391,NorthStar Data,12000,Discovery,Open,Marcus Rivera,EdTech,SMB,32,Pricing,12,46,26.6
+OPP-0392,Lakefront Tech,19000,Prospecting,Open,Jordan Blake,Manufacturing,SMB,17,Budget Freeze,9,34,28.0
+OPP-0393,Orbit Software,430000,Discovery,Open,Morgan Lee,DevTools,Enterprise,12,Contract Terms,14,47,28.4
+OPP-0394,Apexion Systems,95000,Proposal,Open,Riley Scott,Insurance Tech,Mid-Market,65,ROI Justification,39,53,50.0
+OPP-0395,Oceanside Software,85000,Proposal,Open,Riley Scott,EdTech,Mid-Market,31,ROI Justification,55,58,67.0
+OPP-0396,Ridgeline Cloud,370000,Closed Won,Won,Morgan Lee,Manufacturing,Enterprise,3,No Objection,65,80,71.8
+OPP-0397,NetForge AI,95000,Closed Won,Won,Casey Park,Cybersecurity,Mid-Market,2,No Objection,88,77,84.1
+OPP-0398,Beacon Cloud,100000,Prospecting,Open,Alex Chen,Cybersecurity,Mid-Market,1,ROI Justification,16,47,32.1
+OPP-0399,Radiant Data,530000,Qualification,Open,Marcus Rivera,HealthTech,Enterprise,34,ROI Justification,31,50,32.0
+OPP-0400,Ironclad Systems,24000,Qualification,Open,Priya Nair,Insurance Tech,SMB,24,Contract Terms,23,41,42.9
+OPP-0401,Flagstone Analytics,33000,Qualification,Open,Sam Torres,Logistics,SMB,25,ROI Justification,32,67,58.2
+OPP-0402,Vertex Systems,240000,Negotiation,Open,Alex Chen,Real Estate Tech,Enterprise,37,Security Concerns,31,67,58.5
+OPP-0403,Pathfinder Systems,125000,Discovery,Open,Morgan Lee,FinTech,Mid-Market,11,Budget Freeze,16,35,47.0
+OPP-0404,Pinnacle Cloud,175000,Negotiation,Open,Jordan Blake,Logistics,Mid-Market,55,Contract Terms,51,55,71.2
+OPP-0405,Prism Platforms,470000,Negotiation,Open,Jamie Wu,Insurance Tech,Enterprise,40,Security Concerns,19,67,60.9
+OPP-0406,Keystone SaaS,150000,Discovery,Open,Jordan Blake,MarTech,Mid-Market,18,No Objection,12,51,37.0
+OPP-0407,Shoreline Systems,35000,Discovery,Open,Priya Nair,Insurance Tech,SMB,25,Security Concerns,13,53,19.1
+OPP-0408,Solara AI,330000,Qualification,Open,Marcus Rivera,EdTech,Enterprise,27,No Objection,13,51,29.8
+OPP-0409,Lynx Systems,440000,Proposal,Open,Jordan Blake,Manufacturing,Enterprise,37,No Objection,20,57,45.8
+OPP-0410,Axiom Software,150000,Prospecting,Open,Riley Scott,HealthTech,Mid-Market,8,Pricing,18,33,32.6
+OPP-0411,Groundwork Systems,250000,Proposal,Open,Marcus Rivera,Real Estate Tech,Enterprise,16,Feature Gap,50,76,71.6
+OPP-0412,Ironclad Cloud,120000,Closed Won,Won,Marcus Rivera,FinTech,Mid-Market,4,Pricing,83,92,93.6
+OPP-0413,Pillar Systems,430000,Closed Lost,Lost,Alex Chen,Cybersecurity,Enterprise,8,Feature Gap,36,38,7.5
+OPP-0414,Matrix Dynamics,26000,Prospecting,Open,Alex Chen,Legal Tech,SMB,5,Feature Gap,14,27,61.0
+OPP-0415,Corex Platforms,850000,Prospecting,Open,Priya Nair,FinTech,Enterprise,17,No Objection,6,48,28.7
+OPP-0416,Forefront Cloud,22000,Prospecting,Open,Morgan Lee,RetailTech,SMB,7,No Objection,24,41,22.3
+OPP-0417,Horizon Cloud,310000,Proposal,Open,Sam Torres,Logistics,Enterprise,61,Budget Freeze,20,62,54.9
+OPP-0418,Drift Analytics,14000,Closed Won,Won,Priya Nair,HR Tech,SMB,0,No Objection,66,78,72.4
+OPP-0419,Crest Analytics,390000,Proposal,Open,Alex Chen,HealthTech,Enterprise,60,Pricing,29,66,59.7
+OPP-0420,Astral Software,110000,Closed Won,Won,Jordan Blake,Insurance Tech,Mid-Market,4,No Objection,89,69,81.0
+OPP-0421,Velocity AI,450000,Prospecting,Open,Alex Chen,EdTech,Enterprise,12,Competitor Preference,15,62,24.9
+OPP-0422,Celer Platforms,590000,Closed Won,Won,Dana Kim,E-Commerce,Enterprise,3,No Objection,75,76,76.9
+OPP-0423,Contour Analytics,155000,Discovery,Open,Alex Chen,HR Tech,Mid-Market,17,Contract Terms,8,49,54.6
+OPP-0424,Helix Software,410000,Proposal,Open,Marcus Rivera,HealthTech,Enterprise,10,Security Concerns,48,77,75.9
+OPP-0425,Relay Systems,20000,Closed Won,Won,Priya Nair,HR Tech,SMB,4,Contract Terms,74,68,66.4
+OPP-0426,Scout Analytics,60000,Negotiation,Open,Riley Scott,Logistics,Mid-Market,18,Competitor Preference,34,84,67.6
+OPP-0427,Nimble Tech,100000,Proposal,Open,Sam Torres,Legal Tech,Mid-Market,38,Pricing,23,70,53.6
+OPP-0428,Polaris Data,400000,Qualification,Open,Casey Park,MarTech,Enterprise,25,Budget Freeze,27,50,55.7
+OPP-0429,Keystone Cloud,140000,Closed Lost,Lost,Riley Scott,Insurance Tech,Mid-Market,8,ROI Justification,19,39,15.1
+OPP-0430,Cascade Technologies,100000,Proposal,Open,Sam Torres,Real Estate Tech,Mid-Market,18,Budget Freeze,25,61,62.1
+OPP-0431,Equinox Cloud,21000,Qualification,Open,Dana Kim,Manufacturing,SMB,10,Timing,30,53,33.3
+OPP-0432,Nucleus Software,130000,Negotiation,Open,Priya Nair,E-Commerce,Mid-Market,82,Pricing,48,63,61.4
+OPP-0433,Stratos AI,450000,Qualification,Open,Sam Torres,EdTech,Enterprise,17,No Objection,10,58,37.3
+OPP-0434,Irongate Software,380000,Qualification,Open,Morgan Lee,HealthTech,Enterprise,42,No Objection,25,62,28.3
+OPP-0435,Grid Dynamics,75000,Closed Won,Won,Jordan Blake,Logistics,Mid-Market,3,No Objection,77,67,69.9
+OPP-0436,Mosaic Tech,540000,Prospecting,Open,Morgan Lee,E-Commerce,Enterprise,13,Competitor Preference,12,32,27.9
+OPP-0437,TrueNorth AI,430000,Proposal,Open,Marcus Rivera,Real Estate Tech,Enterprise,21,Competitor Preference,41,46,60.1
+OPP-0438,Hallmark Software,85000,Qualification,Open,Alex Chen,MarTech,Mid-Market,12,Stakeholder Alignment,23,47,63.4
+OPP-0439,Fulcrum Systems,65000,Closed Won,Won,Morgan Lee,HR Tech,Mid-Market,2,No Objection,60,80,66.1
+OPP-0440,Platform9 Inc,75000,Proposal,Open,Priya Nair,HR Tech,Mid-Market,63,Pricing,19,76,64.4
+OPP-0441,Cloudgate Software,145000,Proposal,Open,Dana Kim,HealthTech,Mid-Market,65,Timing,25,66,59.3
+OPP-0442,TerraLogic,70000,Qualification,Open,Riley Scott,HealthTech,Mid-Market,44,Contract Terms,11,45,57.5
+OPP-0443,Lodestar AI,24000,Closed Lost,Lost,Marcus Rivera,Logistics,SMB,3,Timing,22,10,18.9
+OPP-0444,Uplink AI,22000,Discovery,Open,Morgan Lee,RetailTech,SMB,13,ROI Justification,30,59,17.8
+OPP-0445,Highpoint Tech,115000,Closed Won,Won,Jamie Wu,MarTech,Mid-Market,3,No Objection,66,88,75.4
+OPP-0446,Deepwater Analytics,39000,Proposal,Open,Jordan Blake,Cybersecurity,SMB,46,ROI Justification,40,70,66.9
+OPP-0447,Flux Platforms,540000,Proposal,Open,Alex Chen,FinTech,Enterprise,53,No Objection,21,73,62.7
+OPP-0448,Brightpath Software,32000,Qualification,Open,Dana Kim,Legal Tech,SMB,25,No Objection,39,50,45.4
+OPP-0449,Lumen Cloud,15000,Discovery,Open,Priya Nair,PropTech,SMB,25,Security Concerns,21,49,15.3
+OPP-0450,Crest Cloud,710000,Proposal,Open,Dana Kim,Real Estate Tech,Enterprise,19,Timing,35,47,47.4
+OPP-0451,Brookside AI,145000,Closed Won,Won,Priya Nair,PropTech,Mid-Market,2,No Objection,95,67,83.4
+OPP-0452,Relay Platforms,450000,Negotiation,Open,Priya Nair,Real Estate Tech,Enterprise,30,Pricing,35,48,62.3
+OPP-0453,Skymark Cloud,36000,Qualification,Open,Sam Torres,Logistics,SMB,40,Pricing,28,73,23.1
+OPP-0454,Pinnacle Data,590000,Qualification,Open,Alex Chen,MarTech,Enterprise,37,Timing,23,49,36.8
+OPP-0455,Conduit Software,110000,Proposal,Open,Riley Scott,E-Commerce,Mid-Market,35,No Objection,20,80,56.2
+OPP-0456,Vortex Tech,32000,Discovery,Open,Casey Park,Manufacturing,SMB,17,Security Concerns,27,46,29.4
+OPP-0457,Overture Tech,70000,Proposal,Open,Alex Chen,Insurance Tech,Mid-Market,25,ROI Justification,33,67,65.8
+OPP-0458,Archway Tech,170000,Proposal,Open,Marcus Rivera,Logistics,Mid-Market,21,No Objection,28,49,56.5
+OPP-0459,Cliffside AI,95000,Discovery,Open,Dana Kim,MarTech,Mid-Market,12,Security Concerns,9,40,22.1
+OPP-0460,Nimbus Tech,90000,Negotiation,Open,Casey Park,EdTech,Mid-Market,68,Pricing,34,60,53.7
+OPP-0461,Zenith Cloud,240000,Proposal,Open,Riley Scott,MarTech,Enterprise,37,No Objection,33,49,62.3
+OPP-0462,Coda Analytics,690000,Discovery,Open,Priya Nair,MarTech,Enterprise,10,Timing,19,58,17.8
+OPP-0463,Capstone Software,16000,Prospecting,Open,Casey Park,Legal Tech,SMB,11,Timing,14,32,40.5
+OPP-0464,Ember Technologies,360000,Closed Lost,Lost,Casey Park,FinTech,Enterprise,3,Budget Freeze,24,49,18.2
+OPP-0465,Centric Platforms,780000,Discovery,Open,Morgan Lee,FinTech,Enterprise,10,Budget Freeze,15,62,33.0
+OPP-0466,Canopy Software,16000,Proposal,Open,Riley Scott,Logistics,SMB,38,Timing,50,55,69.5
+OPP-0467,Lumina Analytics,60000,Proposal,Open,Sam Torres,Legal Tech,Mid-Market,59,No Objection,42,69,74.2
+OPP-0468,Valleyforge Cloud,55000,Discovery,Open,Jordan Blake,PropTech,Mid-Market,31,Timing,18,44,54.5
+OPP-0469,Arclight Solutions,17000,Discovery,Open,Casey Park,Cybersecurity,SMB,21,ROI Justification,28,59,31.1
+OPP-0470,Meridian Software,115000,Discovery,Open,Jordan Blake,RetailTech,Mid-Market,26,Contract Terms,6,54,38.5
+OPP-0471,Hardline Software,80000,Proposal,Open,Jamie Wu,HR Tech,Mid-Market,13,No Objection,14,69,56.5
+OPP-0472,Ridge Systems,17000,Prospecting,Open,Morgan Lee,HR Tech,SMB,10,Budget Freeze,22,51,26.3
+OPP-0473,Netcrest Analytics,29000,Prospecting,Open,Priya Nair,Real Estate Tech,SMB,11,Pricing,13,49,40.2
+OPP-0474,Flatrock Cloud,75000,Discovery,Open,Marcus Rivera,HealthTech,Mid-Market,23,No Objection,20,51,42.5
+OPP-0475,NovaTech Solutions,520000,Qualification,Open,Alex Chen,E-Commerce,Enterprise,27,Feature Gap,26,44,40.4
+OPP-0476,Quantum Leap Inc,90000,Discovery,Open,Dana Kim,Legal Tech,Mid-Market,24,Security Concerns,17,51,54.6
+OPP-0477,Nexus Platforms,80000,Closed Won,Won,Alex Chen,Legal Tech,Mid-Market,2,No Objection,90,92,95.8
+OPP-0478,Luminary Data,34000,Negotiation,Open,Jamie Wu,Manufacturing,SMB,23,Security Concerns,39,53,64.3
+OPP-0479,Cobalt Systems,20000,Qualification,Open,Casey Park,Manufacturing,SMB,12,No Objection,43,71,17.6
+OPP-0480,Dockside AI,410000,Qualification,Open,Morgan Lee,Insurance Tech,Enterprise,33,No Objection,26,55,24.9
+OPP-0481,Momentum Cloud,240000,Prospecting,Open,Casey Park,E-Commerce,Enterprise,12,ROI Justification,10,50,44.7
+OPP-0482,Sagelink Analytics,30000,Discovery,Open,Dana Kim,Legal Tech,SMB,4,No Objection,29,56,48.2
+OPP-0483,Eclipse Software,65000,Proposal,Open,Morgan Lee,MarTech,Mid-Market,48,Pricing,37,57,62.3
+OPP-0484,Momentum AI,21000,Qualification,Open,Morgan Lee,E-Commerce,SMB,12,Contract Terms,12,46,20.5
+OPP-0485,Orion Ventures,560000,Qualification,Open,Jamie Wu,MarTech,Enterprise,23,Contract Terms,22,53,29.6
+OPP-0486,Compass Cloud,18000,Closed Won,Won,Priya Nair,FinTech,SMB,0,No Objection,94,76,84.7
+OPP-0487,Synapse AI,350000,Discovery,Open,Casey Park,Logistics,Enterprise,29,ROI Justification,22,61,43.5
+OPP-0488,Rampart Cloud,590000,Proposal,Open,Riley Scott,FinTech,Enterprise,49,Contract Terms,49,61,65.4
+OPP-0489,Highlands Data,23000,Proposal,Open,Morgan Lee,DevTools,SMB,15,Timing,33,56,54.3
+OPP-0490,Vanguard Data,120000,Discovery,Open,Morgan Lee,PropTech,Mid-Market,30,Competitor Preference,25,63,46.6
+OPP-0491,Folio Data,770000,Discovery,Open,Sam Torres,Manufacturing,Enterprise,28,Feature Gap,6,45,21.6
+OPP-0492,Signal Tech,115000,Prospecting,Open,Sam Torres,Logistics,Mid-Market,13,ROI Justification,19,53,47.7
+OPP-0493,Cornerstone Data,21000,Discovery,Open,Alex Chen,Insurance Tech,SMB,27,No Objection,31,36,29.2
+OPP-0494,Vantage Analytics,80000,Discovery,Open,Marcus Rivera,RetailTech,Mid-Market,19,Contract Terms,14,43,49.3
+OPP-0495,Clearstep Analytics,470000,Prospecting,Open,Alex Chen,DevTools,Enterprise,18,Contract Terms,18,55,61.9
+OPP-0496,Streamline Analytics,75000,Qualification,Open,Jamie Wu,FinTech,Mid-Market,41,No Objection,33,42,17.8
+OPP-0497,Elevate Tech,25000,Closed Lost,Lost,Dana Kim,RetailTech,SMB,3,Budget Freeze,42,34,11.0
+OPP-0498,Greenfield Tech,330000,Proposal,Open,Sam Torres,RetailTech,Enterprise,54,Timing,17,58,53.7
+OPP-0499,Pulse Platforms,19000,Discovery,Open,Riley Scott,HealthTech,SMB,21,Stakeholder Alignment,30,49,25.2
+OPP-0500,HighRidge Tech,19000,Discovery,Open,Sam Torres,E-Commerce,SMB,12,Stakeholder Alignment,12,65,50.3
