@@ -47,6 +47,6 @@ This project demonstrates product thinking, business analytics, AI system design
 
 🚀 **Live Demo:** https://revenue-activation-os-smcmvc7kyv2zqzpnrcfig4.streamlit.app/
 
-💻 **GitHub Repository:** https://github.com/YOUR_USERNAME/Revenue-Activation-OS
+💻 **GitHub Repository:** https://github.com/shreshta714-polaris/Revenue-Activation-OS/tree/main
 
 Revenue Activation OS is an AI-powered Revenue Operations intelligence platform that helps RevOps leaders identify pipeline bottlenecks, churn risk, sales coaching opportunities, and revenue growth insights through interactive analytics and an extensible AI agent architecture.
